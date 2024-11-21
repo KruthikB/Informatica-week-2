@@ -1,0 +1,41 @@
+#employee_id,fullname,job_id,department_id,department_name,location_id,street_address,postal_code,city,state_province,country_id,country_name,region_id,region_name
+100,Steven King,4,9,Executive,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+101,Neena Kochhar,5,9,Executive,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+102,Lex De Haan,5,9,Executive,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+103,Alexander Hunold,9,6,IT,1400,2014 Jabberwocky Rd,26192,Southlake,Texas,US,United States of America,2,Americas
+104,Bruce Ernst,9,6,IT,1400,2014 Jabberwocky Rd,26192,Southlake,Texas,US,United States of America,2,Americas
+105,David Austin,9,6,IT,1400,2014 Jabberwocky Rd,26192,Southlake,Texas,US,United States of America,2,Americas
+106,Valli Pataballa,9,6,IT,1400,2014 Jabberwocky Rd,26192,Southlake,Texas,US,United States of America,2,Americas
+107,Diana Lorentz,9,6,IT,1400,2014 Jabberwocky Rd,26192,Southlake,Texas,US,United States of America,2,Americas
+108,Nancy Greenberg,7,10,Finance,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+109,Daniel Faviet,6,10,Finance,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+110,John Chen,6,10,Finance,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+111,Ismael Sciarra,6,10,Finance,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+112,Jose Manuel Urman,6,10,Finance,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+113,Luis Popp,6,10,Finance,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+114,Den Raphaely,14,3,Purchasing,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+115,Alexander Khoo,13,3,Purchasing,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+116,Shelli Baida,13,3,Purchasing,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+117,Sigal Tobias,13,3,Purchasing,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+118,Guy Himuro,13,3,Purchasing,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+119,Karen Colmenares,13,3,Purchasing,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+120,Matthew Weiss,19,5,Shipping,1500,2011 Interiors Blvd,99236,South San Francisco,California,US,United States of America,2,Americas
+121,Adam Fripp,19,5,Shipping,1500,2011 Interiors Blvd,99236,South San Francisco,California,US,United States of America,2,Americas
+122,Payam Kaufling,19,5,Shipping,1500,2011 Interiors Blvd,99236,South San Francisco,California,US,United States of America,2,Americas
+123,Shanta Vollman,19,5,Shipping,1500,2011 Interiors Blvd,99236,South San Francisco,California,US,United States of America,2,Americas
+126,Irene Mikkilineni,18,5,Shipping,1500,2011 Interiors Blvd,99236,South San Francisco,California,US,United States of America,2,Americas
+145,John Russell,15,8,Sales,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,UK,United Kingdom,1,Europe
+146,Karen Partners,15,8,Sales,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,UK,United Kingdom,1,Europe
+176,Jonathon Taylor,16,8,Sales,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,UK,United Kingdom,1,Europe
+177,Jack Livingston,16,8,Sales,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,UK,United Kingdom,1,Europe
+178,Kimberely Grant,16,8,Sales,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,UK,United Kingdom,1,Europe
+179,Charles Johnson,16,8,Sales,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,UK,United Kingdom,1,Europe
+192,Sarah Bell,17,5,Shipping,1500,2011 Interiors Blvd,99236,South San Francisco,California,US,United States of America,2,Americas
+193,Britney Everett,17,5,Shipping,1500,2011 Interiors Blvd,99236,South San Francisco,California,US,United States of America,2,Americas
+200,Jennifer Whalen,3,1,Administration,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+201,Michael Hartstein,10,2,Marketing,1800,147 Spadina Ave,M5V 2L7,Toronto,Ontario,CA,Canada,2,Americas
+202,Pat Fay,11,2,Marketing,1800,147 Spadina Ave,M5V 2L7,Toronto,Ontario,CA,Canada,2,Americas
+203,Susan Mavris,8,4,Human Resources,2400,8204 Arthur St,,London,,UK,United Kingdom,1,Europe
+204,Hermann Baer,12,7,Public Relations,2700,Schwanthalerstr. 7031,80925,Munich,Bavaria,DE,Germany,1,Europe
+205,Shelley Higgins,2,11,Accounting,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas
+206,William Gietz,1,11,Accounting,1700,2004 Charade Rd,98199,Seattle,Washington,US,United States of America,2,Americas

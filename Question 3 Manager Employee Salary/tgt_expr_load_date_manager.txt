@@ -1,0 +1,11 @@
+#manager_id|first_name|email|avg_employee_sal|max_employee_sal|min_employee_sal|Load_date
+100|Steven|sqltutorial.org|10450|17000|6200.00000|2024-11-20 22:14:56
+101|Neena|sqltutorial.org|8980|12000|4400.00000|2024-11-20 22:14:56
+102|Lex|sqltutorial.org|9000|9000|9000.00000|2024-11-20 22:14:56
+103|Alexander|sqltutorial.org|4950|6000|4200.00000|2024-11-20 22:14:56
+108|Nancy|sqltutorial.org|7920|9000|6900.00000|2024-11-20 22:14:56
+114|Den|sqltutorial.org|2780|3100|2500.00000|2024-11-20 22:14:56
+120|Matthew|sqltutorial.org|2700|2700|2700.00000|2024-11-20 22:14:56
+123|Shanta|sqltutorial.org|3950|4000|3900.00000|2024-11-20 22:14:56
+201|Michael|sqltutorial.org|6000|6000|6000.00000|2024-11-20 22:14:56
+205|Shelley|sqltutorial.org|8300|8300|8300.00000|2024-11-20 22:14:56
